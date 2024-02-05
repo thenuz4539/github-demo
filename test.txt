@@ -1,1 +1,4 @@
 created test.text file
+a=b
+b=c
+c=a
